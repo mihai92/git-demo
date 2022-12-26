@@ -2,3 +2,6 @@ sword and spear
 test
 new lyric
 so we pull test
+
+I wanna try git gui
+Maybe it will be great
